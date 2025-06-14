@@ -243,7 +243,6 @@ If you find our work useful in your research, please consider citing:
 
 For questions, issues, or collaboration opportunities:
 
-- **Main Contact**: Chaoyi Wang- chaoyiwang@mail.sim.ac.cn, Xinhan Di deepearthgo@gmail.com
 
 ## 🙏 Acknowledgements
 
